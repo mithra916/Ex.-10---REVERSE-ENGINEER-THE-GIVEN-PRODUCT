@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex- REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 14.10.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,13 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/41f0795e-812b-438f-96cf-b54658da1f33)
+
 ### Output:
+### Name: LOGA MITHRA R
+### Register Number: 212223100027
 
-
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/775be9bb-765b-40d4-aa79-86332232101d)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
